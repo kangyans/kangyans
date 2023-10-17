@@ -19,6 +19,10 @@ class BMEer:
 me = BMEer()
 me.say_hi()
 ```
+## Github Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kangyans)](https://github.com/kangyans/github-profile-trophy)
+
 ## Keep Moving 🏃
 
 ![](run-mario.gif) 
