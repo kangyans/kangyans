@@ -4,7 +4,7 @@ class BMEer:
 
     def __init__(self):
         self.name     = "Kang Yan"
-        self.school   = "[University of Virginia](virginia.edu)"
+        self.school   = "University of Virginia"
         self.location = "Charlottesville"
         self.language_spoken = ["zh_CN", "en_US"]
 
