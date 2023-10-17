@@ -23,6 +23,9 @@ me.say_hi()
 
 ![Kang Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangyans&show_icons=true&theme=radical)
 
+## Keep Moving
+<img src="run-mario.gif" width="200">
+
 <!---
 ## Trophies 
 
