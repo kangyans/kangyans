@@ -20,8 +20,8 @@ me = BMEer()
 me.say_hi()
 ```
 ## Keep Moving
-=========================
-![](run-mario.gif) =========================
+
+![](run-mario.gif) 
 
 
 
