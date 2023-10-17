@@ -19,11 +19,11 @@ class BMEer:
 me = BMEer()
 me.say_hi()
 ```
-## Stats
+## Stats 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/kangyans/langs)](https://githubtrends.io)
+![Kang Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangyans&show_icons=true&theme=radical)
 
-## Github Trophies 🥇
+## Trophies 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kangyans&theme=onedark)](https://github.com/kangyans/github-profile-trophy)
 
