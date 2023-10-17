@@ -1,4 +1,5 @@
 ### Hey 👋
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyanyan/)
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://kyanx.blogspot.com/)
 ```ruby
 class BMEer:
