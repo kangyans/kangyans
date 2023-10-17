@@ -24,7 +24,7 @@ me.say_hi()
 [![trophy](https://github-profile-trophy.vercel.app/?username=kangyans&theme=onedark)](https://github.com/kangyans/github-profile-trophy)
 
 
-<img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48">
+<img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48">
 
 
 
