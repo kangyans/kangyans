@@ -1,4 +1,3 @@
-<img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48">
 ## Hey 👋
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/KangY01)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyanyan/)
@@ -25,7 +24,6 @@ me.say_hi()
 [![trophy](https://github-profile-trophy.vercel.app/?username=kangyans&theme=onedark)](https://github.com/kangyans/github-profile-trophy)
 
 
-<img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48"><img src="run-mario.gif" width="48">
 
 
 
