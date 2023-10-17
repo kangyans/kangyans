@@ -19,7 +19,7 @@ class BMEer:
 me = BMEer()
 me.say_hi()
 ```
-## Keep Moving
+## Keep Moving 🏃
 
 ![](run-mario.gif) 
 
