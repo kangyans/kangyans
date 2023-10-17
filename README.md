@@ -23,9 +23,11 @@ me.say_hi()
 
 ![Kang Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangyans&show_icons=true&theme=radical)
 
+<!---
 ## Trophies 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kangyans&theme=onedark)](https://github.com/kangyans/github-profile-trophy)
+-->
 
 
 
