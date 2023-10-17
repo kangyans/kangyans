@@ -23,10 +23,8 @@ me.say_hi()
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kangyans&theme=onedark)](https://github.com/kangyans/github-profile-trophy)
 
-## Keep Moving 🏃
 
-![](run-mario.gif) 
-
+<img src="run-mario.gif" width="48">---------------------------------
 
 
 
