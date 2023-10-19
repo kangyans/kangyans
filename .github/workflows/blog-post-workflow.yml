@@ -23,4 +23,5 @@ jobs:
           - uses: gautamkrishnar/blog-post-workflow@master
             with:
               feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1d9iTY4hH_PwaJkMYq0tNab8LUPdXI2CHFgZgCJ6BmQf0gZEah/?limit=15&utm_campaign=pubmed-2&fc=20231019120313"
+              max_post_count: 10
           
