@@ -21,8 +21,8 @@ me.say_hi()
 ```
 
 ## Recent articles on MRM
-<!-- Updata-readme-rss: START -->
-<!-- Updata-readme-rss: END -->
+<!-- BLOG-POST_LIST: START -->
+<!-- BLOG-POST_LIST: END -->
 
 ## Stats 
 
