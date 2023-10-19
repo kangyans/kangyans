@@ -22,8 +22,5 @@ jobs:
           - uses: actions/checkout@v3
           - uses: gautamkrishnar/blog-post-workflow@master
             with:
-              feed-url: https://pubmed.ncbi.nlm.nih.gov/rss/search/1d9iTY4hH_PwaJkMYq0tNab8LUPdXI2CHFgZgCJ6BmQf0gZEah/?limit=15&utm_campaign=pubmed-2&fc=20231019120313
-              readme-section: feed
-              max: 5   # max number of items
-              #tmplate: "#### [{{titile}}]({{link}})\n*{{contentSnippet}}*\n\n"
+              feed_list: https://pubmed.ncbi.nlm.nih.gov/rss/search/1d9iTY4hH_PwaJkMYq0tNab8LUPdXI2CHFgZgCJ6BmQf0gZEah/?limit=15&utm_campaign=pubmed-2&fc=20231019120313
           
