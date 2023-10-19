@@ -19,6 +19,10 @@ class BMEer:
 me = BMEer()
 me.say_hi()
 ```
+
+## News in MRM
+<!--START_SECTION:feed-->
+
 ## Stats 
 
 ![Kang Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangyans&show_icons=true&theme=radical)
