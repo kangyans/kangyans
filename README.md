@@ -20,7 +20,7 @@ me = BMEer()
 me.say_hi()
 ```
 
-## Recent articles on MRM
+## Recent articles on MRM (spiral-related-only)
 
 <!-- BLOG-POST-LIST:START -->
 - [Reproducibility of 3D thoracic aortic displacement from 3D cine balanced SSFP at 3 T without contrast enhancement](https://pubmed.ncbi.nlm.nih.gov/37831612/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1d9iTY4hH_PwaJkMYq0tNab8LUPdXI2CHFgZgCJ6BmQf0gZEah&fc=20231019120313&ff=20231019134726&v=2.17.9.post6+86293ac)
