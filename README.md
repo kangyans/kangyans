@@ -20,8 +20,9 @@ me = BMEer()
 me.say_hi()
 ```
 
-## News in MRM
+## Recent articles on MRM
 <!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
 
 ## Stats 
 
