@@ -22,7 +22,12 @@ me.say_hi()
 
 ## Recent articles on MRM
 
-<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:START -->
+- [Reproducibility of 3D thoracic aortic displacement from 3D cine balanced SSFP at 3 T without contrast enhancement](https://pubmed.ncbi.nlm.nih.gov/37831612/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1d9iTY4hH_PwaJkMYq0tNab8LUPdXI2CHFgZgCJ6BmQf0gZEah&fc=20231019120313&ff=20231019134726&v=2.17.9.post6+86293ac)
+- [Real-time water/fat imaging at 0.55T with spiral out-in-out-in sampling](https://pubmed.ncbi.nlm.nih.gov/37815020/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1d9iTY4hH_PwaJkMYq0tNab8LUPdXI2CHFgZgCJ6BmQf0gZEah&fc=20231019120313&ff=20231019134726&v=2.17.9.post6+86293ac)
+- [HyperSLICE: HyperBand optimized spiral for low-latency interactive cardiac examination](https://pubmed.ncbi.nlm.nih.gov/37799087/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1d9iTY4hH_PwaJkMYq0tNab8LUPdXI2CHFgZgCJ6BmQf0gZEah&fc=20231019120313&ff=20231019134726&v=2.17.9.post6+86293ac)
+- [Speech production real-time MRI at 0.55 T](https://pubmed.ncbi.nlm.nih.gov/37799039/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1d9iTY4hH_PwaJkMYq0tNab8LUPdXI2CHFgZgCJ6BmQf0gZEah&fc=20231019120313&ff=20231019134726&v=2.17.9.post6+86293ac)
+- [2D sodium MRI of the human calf using half-sinc excitation pulses and compressed sensing](https://pubmed.ncbi.nlm.nih.gov/37799019/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1d9iTY4hH_PwaJkMYq0tNab8LUPdXI2CHFgZgCJ6BmQf0gZEah&fc=20231019120313&ff=20231019134726&v=2.17.9.post6+86293ac)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats 
