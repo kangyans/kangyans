@@ -17,8 +17,8 @@ class BMEer:
     def say_hi(self):
         print("Thanks for stopping by, have fun!")
 
-me = BMEer()
-me.say_hi()
+kangyans = BMEer()
+kangyans.say_hi()
 ```
 
 ## Stats
