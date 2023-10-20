@@ -14,11 +14,11 @@ class BMEer:
         self.university = "University of Virginia"
         self.interested_topics = ["spiral", "deep learning", "dMRI", "MRgFUS"]
 
-    def say_hi(self):
+    def welcome(self):
         print("Thanks for stopping by, have fun!")
 
 kangyans = BMEer()
-kangyans.say_hi()
+kangyans.welcome()
 ```
 
 ## Stats
