@@ -40,9 +40,10 @@ me.say_hi()
 - [Acoustic noise reduction for spiral MRI by gradient derating](https://pubmed.ncbi.nlm.nih.gov/37345705/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1d9iTY4hH_PwaJkMYq0tNab8LUPdXI2CHFgZgCJ6BmQf0gZEah&fc=20231019120313&ff=20231020001127&v=2.17.9.post6+86293ac)
 <!-- BLOG-POST-LIST:END -->
 
-
+<!---
 ## Keep Moving
 <img src="run-mario.gif" width="200"><img src="run-mario.gif" width="200"><img src="run-mario.gif" width="200"><img src="run-mario.gif" width="200">
+--->
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kangyans.visitor-badge&right_text=MyPageVisitors)
 <!---
