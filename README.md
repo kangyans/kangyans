@@ -8,11 +8,11 @@
 class BMEer:
 
     def __init__(self):
-        self.name     = "Kang Yan"
-        self.role     = "Ph.D. candidate"
-        self.school   = "University of Virginia"
-        self.location = "Charlottesville"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.name       = "Kang Yan"
+        self.role       = "Ph.D. candidate"
+        self.major      = "MRI"
+        self.university = "University of Virginia"
+        self.interested_topics = ["spiral", "deep learning", "dMRI", "MRgFUS"]
 
     def say_hi(self):
         print("Thanks for stopping by, have fun!")
