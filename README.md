@@ -21,7 +21,7 @@ me = BMEer()
 me.say_hi()
 ```
 
-## Stats 
+## Stats
 
 ![Kang Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangyans&show_icons=true&theme=radical)
 
