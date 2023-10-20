@@ -42,9 +42,9 @@ kangyans.say_hi()
 
 ## Keep Moving
 
-<img src="run-mario.gif" width="52"><img src="run-mario.gif" width="55"><img src="run-mario.gif" width="58"><img src="run-mario.gif" width="61">
-<img src="run-mario.gif" width="64"><img src="run-mario.gif" width="67"><img src="run-mario.gif" width="70"><img src="run-mario.gif" width="73">
-<img src="run-mario.gif" width="76"><img src="run-mario.gif" width="79"><img src="run-mario.gif" width="82"><img src="run-mario.gif" width="85">
+<img src="run-mario.gif" width="53"><img src="run-mario.gif" width="56"><img src="run-mario.gif" width="59"><img src="run-mario.gif" width="62">
+<img src="run-mario.gif" width="65"><img src="run-mario.gif" width="68"><img src="run-mario.gif" width="71"><img src="run-mario.gif" width="74">
+<img src="run-mario.gif" width="77"><img src="run-mario.gif" width="80"><img src="run-mario.gif" width="83"><img src="run-mario.gif" width="86">
 
 
 
