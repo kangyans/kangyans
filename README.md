@@ -41,7 +41,7 @@ kangyans.say_hi()
 <!-- BLOG-POST-LIST:END -->
 
 ## Keep Moving
-<img src="run-mario.gif" width="100"><img src="run-mario.gif" width="100"><img src="run-mario.gif" width="100"><img src="run-mario.gif" width="100">
+<img src="run-mario.gif" width="50"><img src="run-mario.gif" width="50"><img src="run-mario.gif" width="50"><img src="run-mario.gif" width="50">
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kangyans.visitor-badge&right_text=MyPageVisitors)
 <!---
