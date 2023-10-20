@@ -45,7 +45,7 @@ kangyans.say_hi()
 <img src="run-mario.gif" width="50"><img src="run-mario.gif" width="50"><img src="run-mario.gif" width="50"><img src="run-mario.gif" width="50">
 <img src="run-mario.gif" width="50"><img src="run-mario.gif" width="50"><img src="run-mario.gif" width="50"><img src="run-mario.gif" width="50">
 <img src="run-mario.gif" width="50"><img src="run-mario.gif" width="50"><img src="run-mario.gif" width="50"><img src="run-mario.gif" width="50">
-<img src="run-mario.gif" width="50"><img src="run-mario.gif" width="50"><img src="run-mario.gif" width="50"><img src="run-mario.gif" width="50">
+<img src="run-mario.gif" width="50"><img src="run-mario.gif" width="50"><img src="run-mario.gif" width="50"><img src="run-mario.gif" width="100">
 
 
 
