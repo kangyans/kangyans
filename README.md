@@ -39,14 +39,14 @@ kangyans.welcome()
 - [Evaluating efficient SENSE algorithms to deblur spiral MRI with fat/water separation](https://pubmed.ncbi.nlm.nih.gov/37379476/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1d9iTY4hH_PwaJkMYq0tNab8LUPdXI2CHFgZgCJ6BmQf0gZEah&fc=20231019120313&ff=20231023130805&v=2.17.9.post6+86293ac)
 - [Acoustic noise reduction for spiral MRI by gradient derating](https://pubmed.ncbi.nlm.nih.gov/37345705/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1d9iTY4hH_PwaJkMYq0tNab8LUPdXI2CHFgZgCJ6BmQf0gZEah&fc=20231019120313&ff=20231023130805&v=2.17.9.post6+86293ac)
 <!-- BLOG-POST-LIST:END -->
-
+<!---
 ## Keep Moving
 
 <img src="run-mario.gif" width="53"><img src="run-mario.gif" width="56"><img src="run-mario.gif" width="59"><img src="run-mario.gif" width="62">
 <img src="run-mario.gif" width="65"><img src="run-mario.gif" width="68"><img src="run-mario.gif" width="71"><img src="run-mario.gif" width="74">
 <img src="run-mario.gif" width="77"><img src="run-mario.gif" width="80"><img src="run-mario.gif" width="83"><img src="run-mario.gif" width="86">
 
-
+--->
 
 
 
