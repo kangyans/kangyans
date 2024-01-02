@@ -21,9 +21,11 @@ kangyans = BMEer()
 kangyans.welcome()
 ```
 
+/*
 ## Stats
 
 ![Kang Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangyans&show_icons=true&theme=radical)
+*/
 
 ## Latest articles on MRM (spiral-related-only)
 
