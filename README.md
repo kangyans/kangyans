@@ -27,7 +27,7 @@ kangyans.welcome()
 ![Kang Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangyans&show_icons=true&theme=radical)
 -->
 
-## Latest articles on MRM (spiral-related-only)
+## Recent MRM (tags: #spiral)
 
 <!-- BLOG-POST-LIST:START -->
 - [High-resolution myelin-water fraction and quantitative relaxation mapping using 3D ViSTa-MR fingerprinting](https://pubmed.ncbi.nlm.nih.gov/38156945/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1pyhZV_vZSf7TNlI0WcZuBzuhVZygauW1MasA1OfjX-TfzJMEf&fc=20231128161810&ff=20240104151017&v=2.18.0)
