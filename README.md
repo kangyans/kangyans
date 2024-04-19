@@ -52,14 +52,12 @@ kangyans.welcome()
 
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kangyans.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 
-<!---
 ## Trophies 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kangyans&theme=onedark)](https://github.com/kangyans/github-profile-trophy)
--->
+
 
 
 
