@@ -52,7 +52,9 @@ kangyans.welcome()
 
 
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kangyans.visitor-badge&right_text=MyPageVisitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kangyans.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
+
 <!---
 ## Trophies 
 
