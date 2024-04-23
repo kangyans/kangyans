@@ -1,27 +1,27 @@
-## This is a basic workflow to help you get started with Actions
-#
-#name: Latest blog post workflow
-#
-## Controls when the workflow will run
-#on:
-#  schedule:
-#    - cron: '0 * * * *'
-#
-#  # Allows you to run this workflow manually from the Actions tab
-#  workflow_dispatch:
-#
-## A workflow run is made up of one or more jobs that can run sequentially or in parallel
-#jobs:
-#  updata-readme-with-blog:
-#    name: Updata this repo's README with the latest blog posts
-#    runs-on: ubuntu-latest
-#
-#    # Steps represent a sequence of tasks that will be executed as part of the job
-#    steps:
-#      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-#          - uses: actions/checkout@v2
-#          - uses: gautamkrishnar/blog-post-workflow@master
-#            with:
-#              feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1pyhZV_vZSf7TNlI0WcZuBzuhVZygauW1MasA1OfjX-TfzJMEf/?limit=15&utm_campaign=pubmed-2&fc=20231128161810"
-#              max_post_count: 10
-#          
+# This is a basic workflow to help you get started with Actions
+
+name: Latest blog post workflow
+
+# Controls when the workflow will run
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  updata-readme-with-blog:
+    name: Updata this repo's README with the latest blog posts
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+          - uses: actions/checkout@v2
+          - uses: gautamkrishnar/blog-post-workflow@master
+            with:
+              feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/16eWR_JeA5gcz8mL6exRVyljdv1Bg_b5daAnspofyJehJ6_wD-/?limit=15&utm_campaign=pubmed-2&fc=20240423194405"
+              max_post_count: 10
+          
