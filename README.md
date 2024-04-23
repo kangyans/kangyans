@@ -30,7 +30,9 @@ kangyans.welcome()
 
 
 
-## Recent MRM (tags: #spiral)
+## Recent MRM 
+
+### Spiral
 
 <!-- BLOG-POST-LIST:START -->
 - [Retrospective correction of second-order concomitant fields in 3D axial stack-of-spirals imaging on a high-performance gradient system](https://pubmed.ncbi.nlm.nih.gov/38650101/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=16eWR_JeA5gcz8mL6exRVyljdv1Bg_b5daAnspofyJehJ6_wD-&fc=20240423194405&ff=20240423194629&v=2.18.0.post9+e462414)
