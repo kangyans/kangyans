@@ -52,10 +52,6 @@ kangyans.welcome()
 - [Prostate lesions characterization using diffusion-weighted spatiotemporal encoded MRI: Feasibility and initial assessment](https://pubmed.ncbi.nlm.nih.gov/37010477/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1NAkULqPpWyUessckkKgSa8m02K0Ti2M6t8sCP1uTsCe9tRksA&fc=20240423195634&ff=20240423200217&v=2.18.0.post9+e462414)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- BLOG-POST-LIST:START -->
-
-
-<!-- BLOG-POST-LIST:END -->
 
 
 
