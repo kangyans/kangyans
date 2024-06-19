@@ -24,6 +24,7 @@ jobs:
             with:
               feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/16eWR_JeA5gcz8mL6exRVyljdv1Bg_b5daAnspofyJehJ6_wD-/?limit=15&utm_campaign=pubmed-2&fc=20240423194405"
               max_post_count: 10
+              disable_html_encoding: true
      
 
 
