@@ -12,8 +12,8 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  updata-readme-with-blog:
-    name: Updata this repo's README with the latest blog posts
+  update-readme-with-blog-1:
+    name: My fist job
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
@@ -22,16 +22,24 @@ jobs:
           - uses: actions/checkout@v2
           - uses: gautamkrishnar/blog-post-workflow@v1
             with:
-              feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1no_pWrlHWS46fqstymCF1-OLQsnNCa7800V92dzn07dNbXEVF/?limit=15&utm_campaign=pubmed-2&fc=20240726160330"   
+              feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1no_pWrlHWS46fqstymCF1-OLQsnNCa7800V92dzn07dNbXEVF/?limit=15&utm_campaign=pubmed-2&fc=20240726160330" 
               max_post_count: 10
               disable_html_encoding: true
-              
+
+  update-readme-with-blog-2:
+    name: My second job
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
           - uses: actions/checkout@v2
           - uses: gautamkrishnar/blog-post-workflow@v1
             with:
-              feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1VgjRyKWQDpYFifJOIFwwCTYCZ3RgBFiEo9QQQQDIlpgmjxspW/?limit=15&utm_campaign=pubmed-2&fc=20240729150217"   
+              feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1H9AR3ZQQCaH18Wcp_iyOTZw8j_E3OKCDSUQUJEAY5iWBFeEjn/?limit=15&utm_campaign=pubmed-2&fc=20240729152954" 
               max_post_count: 10
               disable_html_encoding: true
+              
      
 
 
