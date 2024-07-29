@@ -20,9 +20,9 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
           - uses: actions/checkout@v1
-          - uses: gautamkrishnar/blog-post-workflow@v1
+          - uses: gautamkrishnar/blog-post-workflow@v4
             with:
-              feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1no_pWrlHWS46fqstymCF1-OLQsnNCa7800V92dzn07dNbXEVF/?limit=15&utm_campaign=pubmed-2&fc=20240726160330, https://pubmed.ncbi.nlm.nih.gov/rss/search/10cYQ8mUsB6e5iB74FZql_dgnyCr0cfkvTgXIJh1TJnyMXi9oC/?limit=10&utm_campaign=pubmed-2&fc=20240729155617 " 
+              feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1no_pWrlHWS46fqstymCF1-OLQsnNCa7800V92dzn07dNbXEVF/?limit=15&utm_campaign=pubmed-2&fc=20240726160330" 
               max_post_count: 10
               disable_html_encoding: true
               
