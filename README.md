@@ -47,8 +47,6 @@ kangyans.welcome()
 - [Water removal in MR spectroscopic imaging with Casorati singular value decomposition](https://pubmed.ncbi.nlm.nih.gov/38181180/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1VgjRyKWQDpYFifJOIFwwCTYCZ3RgBFiEo9QQQQDIlpgmjxspW&fc=20240729150217&ff=20240729150312&v=2.18.0.post9+e462414)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:ENF -->
 
 <!---
 ## Trophies 
