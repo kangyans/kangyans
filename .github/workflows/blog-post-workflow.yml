@@ -20,7 +20,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
           - uses: actions/checkout@v2
-          - uses: gautamkrishnar/blog-post-workflow@v1
+          - uses: gautamkrishnar/blog-post-workflow@v4
             with:
               feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1no_pWrlHWS46fqstymCF1-OLQsnNCa7800V92dzn07dNbXEVF/?limit=15&utm_campaign=pubmed-2&fc=20240726160330" 
               max_post_count: 10
@@ -34,7 +34,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
           - uses: actions/checkout@v2
-          - uses: gautamkrishnar/blog-post-workflow@v1
+          - uses: gautamkrishnar/blog-post-workflow@v4
             with:
               feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1H9AR3ZQQCaH18Wcp_iyOTZw8j_E3OKCDSUQUJEAY5iWBFeEjn/?limit=15&utm_campaign=pubmed-2&fc=20240729152954" 
               max_post_count: 10
