@@ -24,7 +24,7 @@ jobs:
             with:
               feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1no_pWrlHWS46fqstymCF1-OLQsnNCa7800V92dzn07dNbXEVF/?limit=15&utm_campaign=pubmed-2&fc=20240726160330,https://pubmed.ncbi.nlm.nih.gov/rss/search/10cYQ8mUsB6e5iB74FZql_dgnyCr0cfkvTgXIJh1TJnyMXi9oC/?limit=10&utm_campaign=pubmed-2&fc=20240729155617" 
               feed_names: "Spiral,Low Rank"
-              template: "$feed_names: <ul>[$title]($url)</ul>"
+              template: "$feed_names"
               max_post_count: 10
               disable_html_encoding: true
               
