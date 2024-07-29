@@ -47,20 +47,8 @@ kangyans.welcome()
 - [A 3D dual-echo spiral sequence for simultaneous dynamic susceptibility contrast and dynamic contrast-enhanced MRI with single bolus injection](https://pubmed.ncbi.nlm.nih.gov/38469930/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1no_pWrlHWS46fqstymCF1-OLQsnNCa7800V92dzn07dNbXEVF&fc=20240726160330&ff=20240729141345&v=2.18.0.post9+e462414)
 <!-- BLOG-POST-LIST:END -->
 
-
-
-
-<!---
-## Keep Moving
-
-<img src="run-mario.gif" width="53"><img src="run-mario.gif" width="56"><img src="run-mario.gif" width="59"><img src="run-mario.gif" width="62">
-<img src="run-mario.gif" width="65"><img src="run-mario.gif" width="68"><img src="run-mario.gif" width="71"><img src="run-mario.gif" width="74">
-<img src="run-mario.gif" width="77"><img src="run-mario.gif" width="80"><img src="run-mario.gif" width="83"><img src="run-mario.gif" width="86">
-
---->
-
-
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:ENF -->
 
 <!---
 ## Trophies 
