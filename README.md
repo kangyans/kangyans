@@ -4,7 +4,8 @@
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://kangyan.bearblog.dev/)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](wechat.jpg)
 
-![X (formerly Twitter) Follow](https://twitter.com/KangY01))
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:user)](https://twitter.com/KangY01)
+
 
 
 ```ruby
