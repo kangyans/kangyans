@@ -1,41 +1,17 @@
-name: Update Blog Posts
+name: Update README
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # Runs every hour
   push:
-    branches:
-      - main
+    paths:
+      - "_config.yml"
 
 jobs:
-  update-blog-posts:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
-      - name: Update Platform 1 Blog Posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: https://pubmed.ncbi.nlm.nih.gov/rss/search/14_xQ7JEOWXCuor4N6cDMWFm9_lTOr4XdTO7hF16XqAIZakMK5/?limit=15&utm_campaign=pubmed-2&fc=20241220152958
-          post_count: 10
-          readme_path: ./README.md
-          blog_section_start: <!-- BLOG-POST-LIST-1:START -->
-          blog_section_end: <!-- BLOG-POST-LIST-1:END -->
-
-      - name: Update Platform 2 Blog Posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: https://pubmed.ncbi.nlm.nih.gov/rss/search/1puh2wJZbabPSbhl6UC9oZpFmdCJ60F8rUXFF7vqC0kaw59QsO/?limit=15&utm_campaign=pubmed-2&fc=20241220153022
-          post_count: 10
-          readme_path: ./README.md
-          blog_section_start: <!-- BLOG-POST-LIST-2:START -->
-          blog_section_end: <!-- BLOG-POST-LIST-2:END -->
-
-      - name: Commit changes
+      
+      - name: Read YAML and update README
         run: |
-          git config --global kangyans 'github-actions[bot]'
-          git config --global wrr6ps@virginai.edu 'github-actions[bot]@kangyans.noreply.github.com'
-          git add README.md
-          git commit -m 'Update blog posts'
-          git push
+          python update_readme.py
