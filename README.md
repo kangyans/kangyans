@@ -39,17 +39,13 @@ kangyans.welcome()
 
 ### Spiral
 
-<!-- BLOG-POST-LIST-1:START -->
+<!-- BLOG-POST-LIST:START -->
 - [Highly efficient image navigator based 3D whole-heart cardiac MRA at 0.55T](https://pubmed.ncbi.nlm.nih.gov/39415543/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1puh2wJZbabPSbhl6UC9oZpFmdCJ60F8rUXFF7vqC0kaw59QsO&fc=20241220153022&ff=20241220153104&v=2.18.0.post9+e462414)
 - [Chemical shift-encoded multishot EPI for navigator-free prostate DWI](https://pubmed.ncbi.nlm.nih.gov/39402739/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1puh2wJZbabPSbhl6UC9oZpFmdCJ60F8rUXFF7vqC0kaw59QsO&fc=20241220153022&ff=20241220153104&v=2.18.0.post9+e462414)
 - [Improved liver fat and R2* quantification at 0.55 T using locally low-rank denoising](https://pubmed.ncbi.nlm.nih.gov/39385473/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1puh2wJZbabPSbhl6UC9oZpFmdCJ60F8rUXFF7vqC0kaw59QsO&fc=20241220153022&ff=20241220153104&v=2.18.0.post9+e462414)
 - [Highly accelerated non-contrast-enhanced time-resolved 4D MRA using stack-of-stars golden-angle radial acquisition with a self-calibrated low-rank subspace reconstruction](https://pubmed.ncbi.nlm.nih.gov/39344291/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1puh2wJZbabPSbhl6UC9oZpFmdCJ60F8rUXFF7vqC0kaw59QsO&fc=20241220153022&ff=20241220153104&v=2.18.0.post9+e462414)
 - [Fatty acid composition MRI of epicardial adipose tissue: Methods and detection of proinflammatory biomarkers in ST-segment elevation myocardial infarction patients](https://pubmed.ncbi.nlm.nih.gov/39323040/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1puh2wJZbabPSbhl6UC9oZpFmdCJ60F8rUXFF7vqC0kaw59QsO&fc=20241220153022&ff=20241220153104&v=2.18.0.post9+e462414)
 <!-- BLOG-POST-LIST-1:END -->
-
-### Low Rank
-<!-- BLOG-POST-LIST-2:START -->
-<!-- BLOG-POST-LIST-2:END -->
 
 <!---
 ## Trophies 
