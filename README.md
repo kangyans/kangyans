@@ -39,7 +39,7 @@ kangyans.welcome()
 
 ### Spiral
 
-<!-- BLOG-POST-LIST:START -->
+<!-- SPIRAL:START -->
 - [Time-resolved MR fingerprinting for T(2)* signal extraction: MR fingerprinting meets echo planar time-resolved imaging](https://pubmed.ncbi.nlm.nih.gov/39567357/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Hs5ZC7s01Yj387-KZeDWJE6P5URKOk2xA-j9spxiQKJu7dQGr&fc=20241220165528&ff=20241220224723&v=2.18.0.post9+e462414)
 - [Simultaneous multi-slice cardiac real-time MRI at 0.55T](https://pubmed.ncbi.nlm.nih.gov/39506513/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Hs5ZC7s01Yj387-KZeDWJE6P5URKOk2xA-j9spxiQKJu7dQGr&fc=20241220165528&ff=20241220224723&v=2.18.0.post9+e462414)
 - [Giving the prostate the boost it needs: Spiral diffusion MRI using a high-performance whole-body gradient system for high b-values at short echo times](https://pubmed.ncbi.nlm.nih.gov/39497447/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Hs5ZC7s01Yj387-KZeDWJE6P5URKOk2xA-j9spxiQKJu7dQGr&fc=20241220165528&ff=20241220224723&v=2.18.0.post9+e462414)
@@ -50,10 +50,10 @@ kangyans.welcome()
 - [High-quality FLORET UTE imaging for clinical translation](https://pubmed.ncbi.nlm.nih.gov/39219306/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Hs5ZC7s01Yj387-KZeDWJE6P5URKOk2xA-j9spxiQKJu7dQGr&fc=20241220165528&ff=20241220224723&v=2.18.0.post9+e462414)
 - [Spiral 3DREAM sequence for fast whole-brain B1 mapping](https://pubmed.ncbi.nlm.nih.gov/39219171/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Hs5ZC7s01Yj387-KZeDWJE6P5URKOk2xA-j9spxiQKJu7dQGr&fc=20241220165528&ff=20241220224723&v=2.18.0.post9+e462414)
 - [Optimizing pseudo-spiral sampling for abdominal DCE MRI using a digital anthropomorphic phantom](https://pubmed.ncbi.nlm.nih.gov/39004838/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Hs5ZC7s01Yj387-KZeDWJE6P5URKOk2xA-j9spxiQKJu7dQGr&fc=20241220165528&ff=20241220224723&v=2.18.0.post9+e462414)
-<!-- BLOG-POST-LIST:END -->
+<!-- SPIRAL:END -->
 
-<!-- BLOG_LOWRANK_LIST:START -->
-<!-- BLOG_LOWRANK_LIST:END -->
+<!-- LOWRANK:START -->
+<!-- LOWRANK:END -->
 
 <!---
 ## Trophies 
