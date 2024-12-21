@@ -23,3 +23,14 @@ jobs:
               feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1Hs5ZC7s01Yj387-KZeDWJE6P5URKOk2xA-j9spxiQKJu7dQGr/?limit=15&utm_campaign=pubmed-2&fc=20241220165528"
               max_post_count: 10
               disable_html_encoding: true
+              readme_section: "BLOG-SPIRAL-LIST"
+
+          - uses: actions/checkout@v4
+          - uses: gautamkrishnar/blog-post-workflow@v1
+            with:
+              feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HaIafHQm-6cxXCmOGJ3QJ3wTDpMZVRK0nO_gfae9EVqYVkMVN/?limit=15&utm_campaign=pubmed-2&fc=20241220223937"
+              max_post_count: 10
+              disable_html_encoding: true
+              readme_section: "BLOG-LOWRANK-LIST"
+
+              
