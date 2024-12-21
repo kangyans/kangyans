@@ -63,7 +63,7 @@ kangyans.welcome()
 - [Retrospective motion correction for cardiac multi-parametric mapping with dictionary matching-based image synthesis and a low-rank constraint](https://pubmed.ncbi.nlm.nih.gov/39285623/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1F7_W1KYjb2VxxVueveRzyg-swq60S9vYJjSvPBqjUiyMRSs4r&fc=20241220225417&ff=20241220225523&v=2.18.0.post9+e462414)
 - [QRAGE-Simultaneous multiparametric quantitative MRI of water content, T<sub>1</sub>, T<sub>2</sub>*, and magnetic susceptibility at ultrahigh field strength](https://pubmed.ncbi.nlm.nih.gov/39219160/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1F7_W1KYjb2VxxVueveRzyg-swq60S9vYJjSvPBqjUiyMRSs4r&fc=20241220225417&ff=20241220225523&v=2.18.0.post9+e462414)
 - [Abdominal MR Multitasking for radiotherapy treatment planning: A motion-resolved and multicontrast 3D imaging approach](https://pubmed.ncbi.nlm.nih.gov/39171431/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1F7_W1KYjb2VxxVueveRzyg-swq60S9vYJjSvPBqjUiyMRSs4r&fc=20241220225417&ff=20241220225523&v=2.18.0.post9+e462414)
-- [Accelerated 3D multi-channel B1+ mapping at 7 T for the brain and heart](https://pubmed.ncbi.nlm.nih.gov/38934380/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1F7_W1KYjb2VxxVueveRzyg-swq60S9vYJjSvPBqjUiyMRSs4r&fc=20241220225417&ff=20241220225523&v=2.18.0.post9+e462414)
+- [Accelerated 3D multi-channel B<sub>1</sub><sup>+</sup> mapping at 7 T for the brain and heart](https://pubmed.ncbi.nlm.nih.gov/38934380/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1F7_W1KYjb2VxxVueveRzyg-swq60S9vYJjSvPBqjUiyMRSs4r&fc=20241220225417&ff=20241220225523&v=2.18.0.post9+e462414)
 <!-- LOWRANK:END -->
 
 <!---
