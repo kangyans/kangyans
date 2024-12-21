@@ -1,27 +1,37 @@
-# This is a basic workflow to help you get started with Actions
+name: Update README with Blog Posts
 
-name: Latest blog post workflow
-
-# Controls when the workflow will run
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'  # Runs every hour
+  push:
+    branches:
+      - main
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-          - uses: actions/checkout@v4
-          - uses: gautamkrishnar/blog-post-workflow@v1
-            with:
-              feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1Hs5ZC7s01Yj387-KZeDWJE6P5URKOk2xA-j9spxiQKJu7dQGr/?limit=15&utm_campaign=pubmed-2&fc=20241220165528"
-              max_post_count: 10
-              disable_html_encoding: true
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Fetch Blog Posts
+        run: |
+          curl -s https://pubmed.ncbi.nlm.nih.gov/rss/search/10AkQ1Iw49REj1DNt0af-br0DDs5L7DHO_vAdAJJclIB5tpQlV/?limit=15&utm_campaign=pubmed-2&fc=20241220222625 | xq -r '.rss.channel.item[] | "- [" + .title + "](" + .link + ")"' > blog1-posts.txt
+          curl -s https://pubmed.ncbi.nlm.nih.gov/rss/search/1Li5J1cBG7VByIPjgHDgURIGANnZJ6b2h5KFAUmSjYYU-ndAis/?limit=15&utm_campaign=pubmed-2&fc=20241220222648 | xq -r '.rss.channel.item[] | "- [" + .title + "](" + .link + ")"' > blog2-posts.txt
+
+      - name: Update README
+        run: |
+          sed -i '/## Blog 1: Tech Insights/,$d' README.md
+          echo "## Spiral" >> README.md
+          cat blog1-posts.txt >> README.md
+          echo "" >> README.md
+          echo "## Low Rank" >> README.md
+          cat blog2-posts.txt >> README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name kangyans
+          git config --global user.email wrr6ps@virginia.edu
+          git add README.md
+          git commit -m 'Update README with latest blog posts'
+          git push
