@@ -50,7 +50,7 @@ kangyans.welcome()
 - [High-quality FLORET UTE imaging for clinical translation](https://pubmed.ncbi.nlm.nih.gov/39219306/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Hs5ZC7s01Yj387-KZeDWJE6P5URKOk2xA-j9spxiQKJu7dQGr&fc=20241220165528&ff=20241220221628&v=2.18.0.post9+e462414)
 - [Spiral 3DREAM sequence for fast whole-brain B1 mapping](https://pubmed.ncbi.nlm.nih.gov/39219171/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Hs5ZC7s01Yj387-KZeDWJE6P5URKOk2xA-j9spxiQKJu7dQGr&fc=20241220165528&ff=20241220221628&v=2.18.0.post9+e462414)
 - [Optimizing pseudo-spiral sampling for abdominal DCE MRI using a digital anthropomorphic phantom](https://pubmed.ncbi.nlm.nih.gov/39004838/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Hs5ZC7s01Yj387-KZeDWJE6P5URKOk2xA-j9spxiQKJu7dQGr&fc=20241220165528&ff=20241220221628&v=2.18.0.post9+e462414)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG_POST-LIST:END -->
 
 <!-- BLOG_LOWRANK_LIST:START -->
 <!-- BLOG_LOWRANK_LIST:END -->
