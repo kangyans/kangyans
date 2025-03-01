@@ -19,7 +19,7 @@ jobs:
           - uses: actions/checkout@v4
           - uses: gautamkrishnar/blog-post-workflow@v1
             with:
-              feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1Hs5ZC7s01Yj387-KZeDWJE6P5URKOk2xA-j9spxiQKJu7dQGr/?limit=15&utm_campaign=pubmed-2&fc=20241220165528"
+              feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1l1vNBYu_ediRIC33wc8jy-EnJXACHm3ID9uLqcBnqeabZrQ2n/?limit=15&utm_campaign=pubmed-2&fc=20250301181733"
               max_post_count: 10
               disable_html_encoding: true
               comment_tag_name: SPIRAL
@@ -28,7 +28,7 @@ jobs:
           - uses: actions/checkout@v4
           - uses: gautamkrishnar/blog-post-workflow@v1
             with:
-              feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1F7_W1KYjb2VxxVueveRzyg-swq60S9vYJjSvPBqjUiyMRSs4r/?limit=15&utm_campaign=pubmed-2&fc=20241220225417"
+              feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1xQFPWS-91igfefos9vSnZbcPCCzCxP3sAZuBhy8dojlIZNMkS/?limit=15&utm_campaign=pubmed-2&fc=20250301181917"
               max_post_count: 10
               disable_html_encoding: true
               comment_tag_name: LOWRANK
