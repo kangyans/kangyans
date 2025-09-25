@@ -9,18 +9,17 @@
 
 
 
-```ruby
+```
 class BMEer:
 
     def __init__(self):
-        self.name       = "Kang Yan"
-        self.role       = "Ph.D. candidate"
-        self.major      = "MRI"
-        self.university = "University of Virginia"
-        self.interested_topics = ["spiral", "deep learning", "dMRI", "MRgFUS"]
+        self.name = "Kang Yan"
+        self.role = "Ph.D. candidate"
+        self.major = "MRI"
+        self.univ = "University of Virginia"
 
     def welcome(self):
-        print("Thanks for stopping by, have fun!")
+        print("Hi. Thanks for stopping by, have fun!")
 
 kangyans = BMEer()
 kangyans.welcome()
