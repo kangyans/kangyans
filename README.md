@@ -21,8 +21,9 @@ class BMEer:
     def welcome(self):
         print("Hi. Thanks for stopping by, have fun!")
 
-kangyans = BMEer()
-kangyans.welcome()
+if __name__ == '__main__':
+    kangyans = BMEer()
+    kangyans.welcome()
 ```
 
 <!---
