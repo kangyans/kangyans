@@ -37,6 +37,10 @@ if __name__ == '__main__':
 
 ## Recent MRM 📖
 
+### Recent
+<!-- RECENT:START -->
+<!-- RECENT:END -->
+
 ### Spiral
 
 <!-- SPIRAL:START -->
