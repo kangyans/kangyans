@@ -21,6 +21,7 @@ jobs:
             with:
               feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1zCzv8cgXYLWFr_JhazYJ14vFCbGzGurQHQxfej1_p53ZiHg95/?limit=15&utm_campaign=pubmed-2&fc=20251021154024"
               max_post_count: 10
+              item_exec: "post.title = post.title.replace(/<[^>]+>/g, '');"
               disable_html_encoding: true
               comment_tag_name: RECENT
 
@@ -30,6 +31,7 @@ jobs:
             with:
               feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1pGjkNWR5NmeRrgH-_vwak-FB62di_KD-V3H85EoZT5i8eWsh8/?limit=15&utm_campaign=pubmed-2&fc=20251021153851"
               max_post_count: 10
+              item_exec: "post.title = post.title.replace(/<[^>]+>/g, '');"
               disable_html_encoding: true
               comment_tag_name: SPIRAL
 
@@ -39,6 +41,7 @@ jobs:
             with:
               feed_list: "https://pubmed.ncbi.nlm.nih.gov/rss/search/1894B-rjS_U4YoCg29wEwM4NQCZjSThX7qcLkauib7pLxEXwi-/?limit=15&utm_campaign=pubmed-2&fc=20251021153935"
               max_post_count: 10
+              item_exec: "post.title = post.title.replace(/<[^>]+>/g, '');"
               disable_html_encoding: true
               comment_tag_name: LOWRANK
 
